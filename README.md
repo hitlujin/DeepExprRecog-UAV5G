@@ -21,6 +21,3 @@ This repository contains the implementation code for the paper titled "Deep Netw
 - `test.py`: Contains testing routines for the models.
 - `test_video.py`: Script for testing the model with video input.
 - `train.py`: Manages the training process of the model.
-
-## Usage
-This section would typically contain quick start commands and examples of how to run the project, but per client's instructions, specific usage examples are omitted.
